@@ -1,0 +1,6 @@
+var myNumber = [""]
+
+
+function givemyNumber() {
+
+}

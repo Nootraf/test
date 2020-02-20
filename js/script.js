@@ -1,6 +1,7 @@
-var myNumber = [""]
+var myNumber = ["1",
+        2 "]
 
 
-function givemyNumber() {
-
-}
+        function givemyNumber() {
+            var myNumber = parseInt(document.getElementById("number").value)
+        }
